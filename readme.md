@@ -1,5 +1,6 @@
 # Gordon Ramsay Slackbot
-(AKA gordobot)
+
+A Sassy Gordon Ramsay Slackbot for the ages. Abusive anger replaced with glorious compliments.
 
 See the blog post here: XXXYYY for a full break down of how this charismatic slack bot came to be and how it works.
 

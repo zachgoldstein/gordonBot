@@ -1,4 +1,5 @@
 # Gordon Ramsay Slackbot
+<img align="right" width="200" src="https://i.imgur.com/ZJC7Io7.png">
 
 A Sassy Gordon Ramsay Slackbot for the ages. Abusive anger replaced with glorious compliments.
 
